@@ -1,4 +1,4 @@
-# Polymer App and Forge Starter Kit
+# Polymer 2 App and Autodesk Forge Viewer Starter Kit
 
 This template is a starting point for building polymer apps with Autodesk Forge Platform.
 
@@ -18,6 +18,7 @@ Second, install [Bower](https://bower.io/) using [npm](https://www.npmjs.com)
 
 ##### Clone the project
 
+    git clone https://github.com/cctech-labs/forge-view.git
     cd forge-view
     bower install
 
