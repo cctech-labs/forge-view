@@ -12,15 +12,12 @@ First, install [Polymer CLI](https://github.com/Polymer/polymer-cli) using
 
     npm install -g polymer-cli
 
-Second, install [Bower](https://bower.io/) using [npm](https://www.npmjs.com)
-
-    npm install -g bower
 
 ##### Clone the project
 
     git clone https://github.com/cctech-labs/forge-view.git
     cd forge-view
-    bower install
+    npm install
 
 ### Start the development server
 
