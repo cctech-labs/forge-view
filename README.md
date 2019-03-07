@@ -1,4 +1,4 @@
-# Polymer 2 App and Autodesk Forge Viewer Starter Kit
+# Polymer 3 App and Autodesk Forge Viewer Starter Kit
 
 This template is a starting point for building polymer apps with Autodesk Forge Platform.
 

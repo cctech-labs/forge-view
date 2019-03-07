@@ -1,5 +1,5 @@
 {
-  "name": "polymer-starter-kit",
+  "name": "forge-polymer-starter-kit",
   "license": "BSD-3-Clause",
   "devDependencies": {
     "eslint": "^3.19.0",
@@ -20,7 +20,7 @@
     "supports-color": "3.1.2",
     "type-detect": "1.0.0"
   },
-  "author": "The Polymer Authors",
+  "author": "Nem Kumar",
   "dependencies": {
     "@polymer/app-layout": "^3.0.0",
     "@polymer/app-route": "^3.0.0",
